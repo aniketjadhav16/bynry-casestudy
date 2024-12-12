@@ -1,0 +1,84 @@
+[
+    {
+      "id": "1",
+      "name": "Emily Chen",
+      "photo": "https://randomuser.me/api/portraits/women/52.jpg",
+      "description": "Passionate UX Designer with a knack for creating intuitive digital experiences. I believe in the power of user-centered design to solve complex problems.",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "contact": "emily.chen@designstudio.com",
+      "interests": "User research, Prototyping, Hiking, Sustainable living"
+    },
+    {
+      "id": "2",
+      "name": "Marcus Johnson",
+      "photo": "https://randomuser.me/api/portraits/men/32.jpg",
+      "description": "Full-stack developer by day, indie game creator by night. I'm always excited about learning new technologies and pushing the boundaries of what's possible in web development.",
+      "latitude": 40.7128,
+      "longitude": -74.0060,
+      "contact": "marcus.johnson@techsolutions.io",
+      "interests": "JavaScript frameworks, Game development, Sci-fi novels, Rock climbing"
+    },
+    {
+      "id": "3",
+      "name": "Sophia Patel",
+      "photo": "https://randomuser.me/api/portraits/women/68.jpg",
+      "description": "Environmental scientist specializing in urban ecology. I'm dedicated to finding sustainable solutions for our cities and helping communities thrive alongside nature.",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "contact": "sophia.patel@greencities.org",
+      "interests": "Urban gardening, Biodiversity conservation, Yoga, Documentary filmmaking"
+    },
+    {
+      "id": "4",
+      "name": "Liam O'Connor",
+      "photo": "https://randomuser.me/api/portraits/men/45.jpg",
+      "description": "Freelance photographer with a passion for capturing the raw beauty of urban landscapes. My work explores the intersection of architecture, culture, and human experience.",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "contact": "liam.oconnor@visualstoryteller.com",
+      "interests": "Street photography, Analog film, Jazz music, Vintage camera collecting"
+    },
+    {
+      "id": "5",
+      "name": "Zoe Nakamura",
+      "photo": "https://randomuser.me/api/portraits/women/75.jpg",
+      "description": "Culinary entrepreneur and fusion chef. I love experimenting with flavors from around the world and creating unique dining experiences that bring people together.",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "contact": "zoe.nakamura@fusionbites.co",
+      "interests": "Food innovation, Farmers markets, Travel, Traditional cooking techniques"
+    },
+    {
+      "id": "6",
+      "name": "Alex Rivera",
+      "photo": "https://randomuser.me/api/portraits/men/57.jpg",
+      "description": "Social entrepreneur focused on education technology. I'm working to make quality education accessible to everyone, regardless of their background or location.",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "contact": "alex.rivera@edutech4all.com",
+      "interests": "EdTech, Machine learning, Salsa dancing, Community outreach"
+    },
+    {
+      "id": "7",
+      "name": "Olivia Becker",
+      "photo": "https://randomuser.me/api/portraits/women/89.jpg",
+      "description": "Biomedical researcher specializing in regenerative medicine. My work aims to unlock the body's natural healing potential and improve quality of life for patients worldwide.",
+      "latitude": 52.5200,
+      "longitude": 13.4050,
+      "contact": "olivia.becker@bioinnov.de",
+      "interests": "Stem cell research, Medical ethics, Classical music, Marathon running"
+    },
+    {
+      "id": "8",
+      "name": "Raj Malhotra",
+      "photo": "https://randomuser.me/api/portraits/men/66.jpg",
+      "description": "Fintech innovator working on blockchain solutions for financial inclusion. I believe technology can level the playing field and create opportunities for underserved communities.",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "contact": "raj.malhotra@blockchainforgood.in",
+      "interests": "Cryptocurrency, Financial literacy, Meditation, Cricket"
+    }
+  ]
+  
+  
